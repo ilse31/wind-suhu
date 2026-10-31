@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+dist/
+.vs/
+.dotnet-home/
+.nuget-packages/
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
